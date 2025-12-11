@@ -148,5 +148,5 @@ A4: 请确保在打包时使用与目标系统匹配的 Python 版本和依赖�
 ## 联系方式
 
 如有问题或建议，请通过以下方式联系：
-- 邮箱：your-email@example.com
-- GitHub：[@yourusername](https://github.com/yourusername)
+- 邮箱：965651255@qq.com
+- GitHub：[@ACE-FANG](https://github.com/ACE-FANG)
